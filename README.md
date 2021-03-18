@@ -8,4 +8,4 @@ I just want to find out how GitHub works
 * This is another list item
 * Ok, this is the last
 
-1 [] sentosa1.jpg
+1[]sentosa1.jpg
