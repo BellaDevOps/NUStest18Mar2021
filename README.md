@@ -1,2 +1,5 @@
-# NUStest18Mar2021
-This is a test repository to start GitHub
+#This is a test repository
+
+I just want to find out how GitHub works
+
+## Is this some smaller text?
